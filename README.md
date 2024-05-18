@@ -1,1 +1,2 @@
-# lab
+# KPICode.github.io
+ПІБ та група - Петраш Павло КВ-13, Назва лаб. роботи - Розробка функціональності Web-додатка мовою Javascript, Завдання - розробити функціональність для статичних сторінок Web-додатку першої лабораторної роботи із використанням шаблону MVC, Посилання на звіт - https://docs.google.com/document/d/1bJNS1pi3UboCCm99eqq3kolmYe4-TSAY/edit?usp=sharing&ouid=110221826484751182471&rtpof=true&sd=true
